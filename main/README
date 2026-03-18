@@ -1,0 +1,18 @@
+<html><head><title>JSON Data</title><style>body { font-family: Arial, sans-serif; margin: 20px; } pre { background: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto; }</style></head><body><h1>JSON Output</h1><pre>[
+  {
+    "name": "Alice",
+    "email": {
+      "personal": "alice@home.com",
+      "work": "alice@wonderland.org"
+    },
+    "workEmail": "alice@wonderland.org"
+  },
+  {
+    "name": "Bob",
+    "email": {
+      "personal": "bob@mail.com",
+      "work": "bob@mail.com"
+    },
+    "workEmail": "bob@mail.com"
+  }
+]</pre></body></html>
